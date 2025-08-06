@@ -2,7 +2,7 @@ package routes
 
 import(
 	"github.com/gin-gonic/gin"
-	controller "golang-restraunt-management/controllers"
+	controller "restraunt-management/controllers"
 )
 
 func FoodRoutes(incomingRoutes *gin.Engine){
